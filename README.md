@@ -1,8 +1,4 @@
-  DDDDD   III  SSSSS  CCCCC  OOO   RRRR   DDDD     GGGGG  PPPP   TTTTT
-  D   D    I   S      C      O   O  R   R  D   D   G       P   P    T
-  D   D    I   SSSSS  C      O   O  RRRR   D   D   G  GG   PPPP     T
-  D   D    I      S  C      O   O  R  R   D   D   G   G   P        T
-  DDDDD   III  SSSSS  CCCCC  OOO   R   R  DDDD     GGGGG   P        T
+![image](https://github.com/user-attachments/assets/030bcb58-6aec-4b83-ba59-cfb9c8bc3292)
 
                                                                                                                                                                                             
 ```markdown
