@@ -31,8 +31,8 @@ npm install
 ### 3. Set Up Your Environment
 Create a `.env` file in the root directory and add your Discord bot token and OpenAI API key:
 ```env
-DISCORD_TOKEN=your-discord-bot-token
-OPENAI_API_KEY=your-openai-api-key
+DISCORD_TOKEN= "your discord token"
+OPENAI_API_KEY= "your open api key"
 ```
 
 > ⚠️ **Important**: To use the GPT-powered responses, you need a valid **OpenAI subscription**. The API is rate-limited, and usage is not free. Please ensure you have an active subscription to avoid interruptions in service.
