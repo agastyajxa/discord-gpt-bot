@@ -48,6 +48,12 @@ Your bot is now ready to interact with your Discord server! 🎉
 
 - **`!ask [question]`** - Ask the bot anything, and it will reply with an AI-generated response! 🤔💬
 
+### **5. if you want your bot run 24/7 for freet**
+1. Go to [UptimeRobot](https://uptimerobot.com/) and create an account if you haven’t already.
+2. Set up a new **HTTP monitor** with your Replit bot URL (you can get this URL from the top of your Replit project).
+3. Set the check interval (e.g., every 5 minutes).
+4. UptimeRobot will now ping your Replit project at regular intervals, keeping it online 24/7.
+
 ## License 📝
 
 This project is licensed under the [MIT License](LICENSE).
