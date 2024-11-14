@@ -1,8 +1,7 @@
+
+```markdown
 ![DISCORD GPT](https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InByZXNzc3RhcnQiLCJ0ZXh0IjoiRElTQ09SRCUyMEdQVCIsImlhdCI6MTczMTU5NTA2NH0.7dwAiOcGVOTl6VsGWkYwJsYBT0xGkB8SfwwUOOGAm78)
 
-
-                                                                                                                                                                                            
-```markdown
 # Discord GPT Bot 🚀🤖
 
 Welcome to the **Discord GPT Bot**! 🎉  
@@ -34,6 +33,8 @@ Create a `.env` file in the root directory and add your Discord bot token and Op
 DISCORD_TOKEN=your-discord-bot-token
 OPENAI_API_KEY=your-openai-api-key
 ```
+
+> ⚠️ **Important**: To use the GPT-powered responses, you need a valid **OpenAI subscription**. The API is rate-limited, and usage is not free. Please ensure you have an active subscription to avoid interruptions in service.
 
 ### 4. Start the Bot 🚀
 ```bash
