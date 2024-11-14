@@ -1,4 +1,5 @@
-![image]([https://github.com/user-attachments/assets/030bcb58-6aec-4b83-ba59-cfb9c8bc3292](https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InByZXNzc3RhcnQiLCJ0ZXh0IjoiRElTQ09SRCUyMEdQVCIsImlhdCI6MTczMTU5NTA2NH0.7dwAiOcGVOTl6VsGWkYwJsYBT0xGkB8SfwwUOOGAm78))
+![DISCORD GPT](https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InByZXNzc3RhcnQiLCJ0ZXh0IjoiRElTQ09SRCUyMEdQVCIsImlhdCI6MTczMTU5NTA2NH0.7dwAiOcGVOTl6VsGWkYwJsYBT0xGkB8SfwwUOOGAm78)
+
 
                                                                                                                                                                                             
 ```markdown
