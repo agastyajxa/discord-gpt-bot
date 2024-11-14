@@ -19,7 +19,7 @@ A fun and interactive bot powered by OpenAI's GPT, designed to answer questions 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/discord-gpt-bot.git
+git clone https://github.com/agastyajxa/discord-gpt-bot.git
 cd discord-gpt-bot
 ```
 
